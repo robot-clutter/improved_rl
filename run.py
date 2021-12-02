@@ -77,7 +77,7 @@ def parse_args():
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('--exp', default='eval_empty_space', type=str, help='Name of experiment to run')
     parser.add_argument('--seed', default=0, type=int, help='Seed that will run the experiment')
-    parser.add_argument('--dataset_dir', default=os.path.join(os.getenv('ROBOT_CLUTTER_DIR'), 'clt_logs/dataset'),
+    parser.add_argument('--dataset_dir', default=os.path.join(os.getenv('ROBOT_CLUTTER_WS'), 'clt_logs/dataset'),
                         type=str, help='Directory of the dataset for the training experiments')
     parser.add_argument('--n_episodes', default=200, type=int,
                         help='Number of episodes to run for')
