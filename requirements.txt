@@ -1,0 +1,6 @@
+PyYAML~=6.0
+setuptools~=52.0.0
+numpy~=1.19.5
+opencv-python~=4.5.1.48
+matplotlib~=3.3.3
+torch~=1.10.0+cu113
