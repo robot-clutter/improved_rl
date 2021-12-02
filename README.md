@@ -1,14 +1,25 @@
-# bridging_the_gap
+# Bridging the gap between learning and heuristic based pushing policies
 
-Code of "Bridging the gap between learning and heuristic based pushing policies".
+Code for the paper "*Kiatos, M., Sarantopoulos, I., Malassiotis, S., & Doulgeri, Z. (2021). Bridging the gap between learning and heuristic based pushing policies.*".
 
-The code is under development so some bugs and missing documentation is to be expected.
 
-Paper's webpage: https://robot-clutter.github.io/bridging-the-gap
+[Webpage](https://robot-clutter.github.io/bridging-the-gap) | [Manuscript](https://arxiv.org/pdf/2111.11156.pdf)
+
+**CAUTION**: The code is under development so some bugs and missing documentation is to be expected.
+
+Cite:
+```
+@article{bridging-the-gap,
+    title={Bridging the gap between learning and heuristic based pushing policies},
+    author={Kiatos, Marios and Sarantopoulos, Iason and Malassiotis, Sotiris and Doulgeri, Zoe},
+    journal={arXiv preprint arXiv:2111.11156},
+    year={2021}
+  }
+```
 
 # Install
 
-The code has been tested on a PC with Ubuntu 20.04 with an Nvidia GPU.
+The code has been tested on a PC with Ubuntu 20.04 equipped with an Nvidia GPU.
 
 ```bash
 mkdir robot-clutter
