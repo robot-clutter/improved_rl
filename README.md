@@ -39,6 +39,7 @@ cd ..
 git clone https://github.com/robot-clutter/clt_assets.git
 cd clt_assets
 pip install -e .
+cd ..
 
 git clone https://github.com/robot-clutter/clt_models.git
 
@@ -73,3 +74,9 @@ Everything is run by the `run.py` script. Try `python run.py --help` for a list 
 
 By default, the logs of the experiments are saved in `$ROBOT_CLUTTER_WS/clt_logs`.
 
+E.g.
+
+```bash
+python run.py --exp=collect_dataset --n_episodes=10000
+python run.py --exp=train_rl
+```
