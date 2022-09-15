@@ -1,6 +1,4 @@
-# Bridging the gap between learning and heuristic based pushing policies
-
-Code for the paper "*Kiatos, M., Sarantopoulos, I., Malassiotis, S., & Doulgeri, Z. (2021). Bridging the gap between learning and heuristic based pushing policies.*".
+#Improved Reinforcement Learning Pushing Policies via Heuristic Rules
 
 
 [Webpage](https://robot-clutter.github.io/bridging-the-gap) | [Manuscript](https://arxiv.org/pdf/2111.11156.pdf)
