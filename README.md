@@ -1,8 +1,5 @@
 # Improved Reinforcement Learning Pushing Policies via Heuristic Rules
 
-
-**CAUTION**: The code is under development so some bugs and missing documentation is to be expected.
-
 # Install
 
 The code has been tested on a PC with Ubuntu 20.04 equipped with an Nvidia GPU.
@@ -66,3 +63,6 @@ E.g.
 python run.py --exp=collect_dataset --n_episodes=10000
 python run.py --exp=train_rl
 ```
+
+**caution**: The code is under development and missing documentation is to be expected.
+
