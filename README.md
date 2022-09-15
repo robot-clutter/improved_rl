@@ -1,19 +1,7 @@
-#Improved Reinforcement Learning Pushing Policies via Heuristic Rules
+# Improved Reinforcement Learning Pushing Policies via Heuristic Rules
 
-
-[Webpage](https://robot-clutter.github.io/bridging-the-gap) | [Manuscript](https://arxiv.org/pdf/2111.11156.pdf)
 
 **CAUTION**: The code is under development so some bugs and missing documentation is to be expected.
-
-Cite:
-```
-@article{bridging-the-gap,
-    title={Bridging the gap between learning and heuristic based pushing policies},
-    author={Kiatos, Marios and Sarantopoulos, Iason and Malassiotis, Sotiris and Doulgeri, Zoe},
-    journal={arXiv preprint arXiv:2111.11156},
-    year={2021}
-  }
-```
 
 # Install
 
